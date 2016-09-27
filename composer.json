@@ -1,0 +1,17 @@
+{
+    "name": "whsuite/money",
+    "description": "Money helper for WHSuite Framework",
+    "license": "Private",
+    "authors": [
+        {
+            "name": "WHSuite",
+            "email": "info@whsuite.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "Whsuite\\Money" : "src/"
+        }
+    }
+}
