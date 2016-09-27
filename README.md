@@ -1,0 +1,2 @@
+# money
+WHSuite Money helper
